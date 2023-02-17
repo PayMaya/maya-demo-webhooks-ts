@@ -21,7 +21,7 @@ Your backend application must first be deployed on a server and then after, you 
 
 ## How to Run the Application
 1. Run `npm install` to install all needed packages.
-2. Run `npm build` to build the project.
+2. Run `npm run build` to build the project.
 3. Run `npm start` to start the application (App opens in http://localhost:3000 by default)
 
 For format of webhook responses please see https://developers.maya.ph/page/webhook-sample-json-data
